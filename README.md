@@ -14,6 +14,12 @@ Currently in development.
 - Extremely Boring, Only CLI Support
 
 # How to use:
+## Method 1: Using the Terminal
 1. Download Python3
    - Windows / Mac: [Python Official Website](https://www.python.org/downloads/)
-   - Linux Debian Based: Open terminal and type '''sudo apt install python3'''
+   - Linux Debian Based: Open terminal and type `sudo apt install python3`
+2. Download the Python file from the release / git clone the repo
+3. Open your folder directry example `cd Downloads` on your Terminal
+4. Enter the command in the terminal `python3 ./scribd_bot.py`
+5. Paste the url of the file you want to view and Enjoy!
+   ![image](https://github.com/user-attachments/assets/160c9df0-8532-4c68-bd9e-8c2f88348cf8)
