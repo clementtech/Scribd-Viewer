@@ -16,4 +16,4 @@ Currently in development.
 # How to use:
 1. Download Python3
    - Windows / Mac: [Python Official Website](https://www.python.org/downloads/)
-   - Linux Debian Based: Open terminal and type <sup>sudo apt install python3</sup> 
+   - Linux Debian Based: Open terminal and type '''sudo apt install python3'''
