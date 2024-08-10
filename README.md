@@ -22,4 +22,5 @@ Currently in development.
 3. Open your folder directry example `cd Downloads` on your Terminal
 4. Enter the command in the terminal `python3 ./scribd_bot.py`
 5. Paste the url of the file you want to view and Enjoy!
+   - Click on the URL outputed by the program and enjoy paywall-free experience.
    ![image](https://github.com/user-attachments/assets/160c9df0-8532-4c68-bd9e-8c2f88348cf8)
