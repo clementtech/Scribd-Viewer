@@ -2,7 +2,7 @@
 Simple Python Based Scribd Viewer to Bypass Paywall
 
 # Road Map:
-- [*] Easy to use for general public
+- [x] Easy to use for general public
 - [ ] Intergration with online services, example Telegram Bot/Discord Bot etc
 - [ ] Browser Extension Support, Tap on extension to view documment immediately
 
