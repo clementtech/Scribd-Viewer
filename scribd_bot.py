@@ -18,9 +18,9 @@ def main():
 
         except EOFError:
             break
-        
 
-def bypass(id)
+
+def bypass(id):
     return f"Enjoy: https://www.scribd.com/embeds/{id}/content?start_page=1&view_mode=scroll"
 
 
